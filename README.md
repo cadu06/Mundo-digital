@@ -6,7 +6,7 @@ Esse projeto é uma aplicação projetada para simplificar e automatizar cálcul
 verificação do consumo de energia de uma residência,ou um cálculo de IMC,
 essa aplicação busca fornecer uma solução versátil e amigável para usuários de diferentes perfis.
 
-#### Acesse o site: *https://cadu06.github.io/Mundo-Digital/*
+#### Acesse o site: *https://cadu06.github.io/Mundo-digital/*
 
 ## 📄 Seções
 
